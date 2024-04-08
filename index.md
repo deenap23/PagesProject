@@ -1,7 +1,7 @@
 # Deena Pederson
 
 ### _About_
-Deena Pederson was born and raised in Sunnyvale, California, by her parents Ted and Julie Pederson. She has a sister named Melody who currently attends UC Santa Barbra. She grew up loving school, as well as participating in sports and music. Deena is currently a 4th year Mathematics Computer Science Student at UC San Diego. She also competes on UCSD's Divison 1 softball team. If you wish to read more about Deena's time as a student athlete, check out her [Student Spotlight](https://physicalsciences.ucsd.edu/media-events/articles/2023/deena-pederson.html)
+Deena Pederson was born and raised in Sunnyvale, California, by her parents Ted and Julie Pederson. She has a sister named Melody who currently attends UC Santa Barbra. She grew up loving school, as well as participating in sports and music. Deena is currently a 4th year Mathematics Computer Science Student at UC San Diego. She also competes on **UCSD**'s Divison 1 softball team. If you wish to read more about Deena's time as a student athlete, check out her [Student Spotlight](https://physicalsciences.ucsd.edu/media-events/articles/2023/deena-pederson.html)
 
 ## **Family**
 ![Pederson Family](family_picture.JPG)
@@ -13,7 +13,7 @@ Deena took 3 coding courses throughout her high school years, which laid the fou
 ```
 System.out.println("Hello World");
 ```
-in Java. From this point forward, she learned more and more [languages](#Coding-Languages). 
+in Java. From this point forward, she learned more and more [languages](#coding-languages-learned-in-chronological-order). 
 
 
 
@@ -32,6 +32,8 @@ in Java. From this point forward, she learned more and more [languages](#Coding-
 4. Matlab
 5. C
 6. C++
+   
+ Find out Deena's [favorite language](./README.md)
 
 ### _Deena's Path to Becoming a Successful SWE_
 - [x] be admitted to UCSD 
@@ -39,3 +41,4 @@ in Java. From this point forward, she learned more and more [languages](#Coding-
 - [ ] successfully complete CSE 110
 - [ ] graduate
 - [ ] enter the workforce with new knowledge!
+
